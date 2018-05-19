@@ -1,7 +1,7 @@
 # EthCandy
 Collect and organize ERC20 candy, updated daily（收集整理ERC20糖果，每天更新）
 
-##免费部分，无需打0 ETH,在IMtoken里添加合约即会自动发放
+## 免费部分，无需打0 ETH,在IMtoken里添加合约即会自动发放
 1. 合约地址SDZ    0x01995786f1435743c42b7f2276c496a610b58612
 2. 合约地址ManitoS    0xfafae755cbaf09cff8f5b0a0f1e0a4a719a9c32a
 3. 合约地址SNS   0x0189d31f6629c359007f72b8d5ec8fa1c126f95c
@@ -18,7 +18,7 @@ Collect and organize ERC20 candy, updated daily（收集整理ERC20糖果，每�
 14. 合约地址Airdrop  0xba7435A4b4C747E0101780073eedA872a69Bdcd4
 15. 合约地址LGBT 0xCbf1ACF596e3e9aa0B7c31051BFe90CA36D4E655
 16. 合约地址Channel  0x6f8a577ff490a86B1b798807bb82B961BAccC837
-17. 合约地址VGS  0x4c9d5672ae33522240532206ab45508116daf263
+17. 合约地址VGS  0x4c9d5672ae33522240532206ab45508116daf263 （添加合约获得代币后向以下钱包地址：0xEDc22944fceEA4b30764C0a6F89BEd02Ec650011 转账任意数量的VGS代币，多得100,000个VGS糖果）
 18. 合约地址ProChain 0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2
 19. 合约地址Simoleon 0x86c8bF8532AA2601151c9DbbF4e4C4804e042571
 20. SPS合约地址   0xd9A72fEc8683db0666769D841d6D127F350B4418
@@ -26,13 +26,9 @@ Collect and organize ERC20 candy, updated daily（收集整理ERC20糖果，每�
 22. PNS合约地址   0xce853db3359326db6d03981c9fb42983bbcdd007
 23. OKB合约地址   0xe302bF71B1f6F3024E7642F9c824Ac86B58436a0
 24. GIFT合约地址   0x57564037fbE556be34C28eef8Fc1DA89ba3D4a50
+25. story合约地址   0x5e72b08dd0b16bae4d03bd647cc8262d516e113f
+26. ez合约地址   0x1a28efaa62ddc7636df515c6a16136ab2b5e9814 
 im钱包，添加币种ygo，获得空投币ygo200个,这个直接搜索添加ygo就可以了：YGO
-【story】 9724个
-0x5e72b08dd0b16bae4d03bd647cc8262d516e113f
 
-【ez】 4862个
-0x1a28efaa62ddc7636df515c6a16136ab2b5e9814
 
-30万VGS. 添加合约：0x4c9d5672ae33522240532206ab45508116daf263
-添加合约获得代币后向以下钱包地址：0xEDc22944fceEA4b30764C0a6F89BEd02Ec650011
-转账任意数量的VGS代币，您的糖果余额得到激活生效，且可获得300,000+100,000个VGS糖果
+
