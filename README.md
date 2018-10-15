@@ -1,5 +1,5 @@
 # EthCandy
-Collect and organize ERC20 candy, updated daily（收集整理ERC20糖果，每天更新）
+Collect and organize ERC20 candy, updated daily（收集整理的ERC20糖果）
 
 ## 免费部分，无需打0 ETH,在IMtoken里添加合约即会自动发放
 1. 合约地址SDZ    0x01995786f1435743c42b7f2276c496a610b58612
